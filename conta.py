@@ -1,7 +1,7 @@
 import random
 class Conta:
     # método construtor
-    def __init__(self, titular, agencia, numero, cpf):
+    def __init__(self, titular, agencia, cpf):
         self.__titular = titular
         self.__agencia = agencia
         self.__numero =f"{random.randint(1000, 9999)}-{random.randint}"
