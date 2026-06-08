@@ -1,1 +1,29 @@
-[]
+[
+{
+"Titular": "João Silva Santos",
+"Agência": "1234",
+"Número": "56789-0",
+"CPF": "123.456.789-00",
+"Saldo": "R$ 3.450,75",
+"Senha": "Senha@1234",
+"Chave PIX": "joao.silva@email.com"
+},
+{
+"Titular": "Maria Oliveira Costa",
+"Agência": "5678",
+"Número": "98765-4",
+"CPF": "987.654.321-00",
+"Saldo": "R$ 8.920,30",
+"Senha": "Maria2025",
+"Chave PIX": "11987654321"
+},
+{
+"Titular": "Pedro Almeida Ferreira",
+"Agência": "4321",
+"Número": "13579-2",
+"CPF": "456.789.123-55",
+"Saldo": "R$ 1.275,60",
+"Senha": "Pedro@9876",
+"Chave PIX": "pedro.almeida@exemplo.com.br"
+}
+]
